@@ -7,6 +7,5 @@ Hello! I am Sri Harika Cherukuri, a graduate student pursuing an MS in Data Scie
 ![0_kqh-44DT1sLFKX3e](https://user-images.githubusercontent.com/46738928/151638739-6786d91b-a911-4242-919f-5db3320e5543.png)
 
 Feel free to have a look at my resume: [Sri Harika Cherukuri- Masters in Data Science.pdf](https://github.com/har1ka/har1ka/files/7962598/Sri.Harika.Cherukuri-.Masters.in.Data.Science.pdf)
-<a href="https://github.com/har1ka/har1ka/files/7962598/Sri.Harika.Cherukuri-.Masters.in.Data.Science.pdf" target="_blank">Google</a>
 
 
